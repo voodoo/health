@@ -1,11 +1,14 @@
-# Obsidian Notes
+# How to stay alive
 
-Publish your public notes with MkDocs
+Just some notes to help anyone navigate the health landscape. I truly believe if I knew what I know now, I would have been able to avoid heart heart and other chronic diseases.
 
-## Hello World!
+  > Tip: Avoid the standard american diet. (SAD)
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+##  Who am I?
+I'm just a guy who started having having health issues but did no know why.
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+## Why should you care?
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+/Shrugs maybe some of this information will help someone, somewhere. If nothing else it is a cathartic exercise.
+
+  > I'm not a doctor. Use info at your own risk.
